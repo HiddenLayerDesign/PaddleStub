@@ -18,7 +18,9 @@ You will need the following:
 
 ## Getting Started
 - Download a null-modem emulator and set it up to run as a background service
-- Run this application
+- Run this application using `python3 StubPaddle.py`
+- Run the PaddleClient- it should connect to this application
+- This app will continue to log messages and updates as you operate the PaddleClient
 
 ## Links
 - Personal Website: https://chasestewart.co/
